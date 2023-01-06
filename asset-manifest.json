@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-techwebsite/static/css/main.e6a220e6.css",
+    "main.js": "/react-techwebsite/static/js/main.cff9f00c.js",
+    "index.html": "/react-techwebsite/index.html",
+    "main.e6a220e6.css.map": "/react-techwebsite/static/css/main.e6a220e6.css.map",
+    "main.cff9f00c.js.map": "/react-techwebsite/static/js/main.cff9f00c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6a220e6.css",
+    "static/js/main.cff9f00c.js"
+  ]
+}
